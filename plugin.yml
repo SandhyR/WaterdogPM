@@ -1,5 +1,5 @@
 name: Waterdog-PMMP
-authors: ["lukeeey", "TobiasDev"]
+authors: ["lukeeey", "TobiasDev", "SandhyR"]
 version: 1.0
 main: lukeeey\waterdog\Main
-api: 3.0.0
+api: 4.0.0
